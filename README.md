@@ -11,8 +11,6 @@ The layout is centered and works well on mobile and desktop screens.
 ## Links
 - Solution URL: https://www.frontendmentor.io/solutions/responsive-qr-component-solution-wMCjz-Y1_5
 - Live Site URL: https://pasupulate-kartheek.github.io/QR-code-solution/
-
-> Replace both links with your real ones.
 ---
 
 ## Built With
